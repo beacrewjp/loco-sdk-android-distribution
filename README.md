@@ -13,7 +13,7 @@ Loco管理画面からビーコンに関する設定を行い、SDKをお客様�
 
 ### マニュアル
 
-[LocoSDK iOS Manual](https://github.com/beacrewjp/loco-sdk-android-distribution/wiki)
+[LocoSDK Android Manual](https://github.com/beacrewjp/loco-sdk-android-distribution/wiki)
 
 ### License
 
